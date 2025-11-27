@@ -1,3 +1,10 @@
+ /**
+ * Ad Soyad: [Mehmet Boztepe]
+ * Numara: [240541084]
+ * Proje: [Öğrenci Not Değerlendirme]
+ * Tarih: [27.11.2025]
+ */
+
 import java.util.Scanner;
 
 public class OgrenciNotDegerlendirme {
@@ -101,3 +108,4 @@ public class OgrenciNotDegerlendirme {
         System.out.println("Butunleme\t: " + butunlemeDurumu);
     }
 }
+
