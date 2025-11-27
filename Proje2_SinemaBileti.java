@@ -1,3 +1,10 @@
+ /**
+ * Ad Soyad: [Mehmet Boztepe]
+ * Numara: [240541084]
+ * Proje: [Sinema Bileti Fiyatlandırma]
+ * Tarih: [27.11.2025]
+ */
+
 import java.util.Scanner;
 
 public class SinemaBiletiFiyatlandirma {
@@ -163,3 +170,4 @@ public class SinemaBiletiFiyatlandirma {
         return info;
     }
 }
+
